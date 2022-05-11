@@ -1,0 +1,23 @@
+@media(min-width:750px){
+
+
+.container{
+    display:flex;
+}
+}
+.box{
+    
+    padding: 1 em;
+    margin: 1em;
+    margin-bottom: 0.5em;
+    border-radius: 1em;
+}
+.Lau{
+    flex:1;
+}
+.Int{
+    flex:1;
+}
+.Bern{
+    flex: 1
+}
