@@ -21,3 +21,23 @@
 .Bern{
     flex: 1
 }
+.nametag{
+    display: flex;
+    justify-content: center;
+    
+}
+.profile{
+    flex: 3;
+}
+.name {
+    flex: 1;
+}
+.place{
+   display: flex;
+}
+.swiss{
+    flex:1;
+}
+.intro {
+    flex: 2;
+}
