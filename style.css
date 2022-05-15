@@ -27,7 +27,7 @@
     
 }
 .profile{
-    flex: 3;
+    flex: 4;
 }
 .name {
     flex: 1;
@@ -40,4 +40,21 @@
 }
 .intro {
     flex: 2;
+}
+.tabl,
+td,
+th {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.tabl{
+    width: 50%;
+}
+.Header{
+    background-color: rgb(62, 94, 202);
+    margin-bottom: 3em;
+    padding: 0.5em;
+}
+@media(min-width:750px) {
+
 }
