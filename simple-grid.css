@@ -292,3 +292,11 @@ p {
 body{
   background-color: rgb(192, 192, 192);
 }
+.Header {
+  background-color: rgb(62, 94, 202);
+  
+}
+@media(max-width:750px) {
+  .inn{
+      flex-direction: row-reverse;
+  }}
