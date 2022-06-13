@@ -248,3 +248,47 @@ p {
     max-width: 60rem;
   }
 }
+
+.lau {
+  flex: 1;
+}
+
+.laud {
+  flex: 1;
+}
+
+.lla {
+  display: flex;
+}
+
+
+.inn {
+  display: flex;
+}
+.in {
+    flex: 1;
+}
+
+.ind {
+    flex: 1;
+}
+
+.bbe {
+    display: flex;
+}
+
+.be {
+    flex: 1;
+}
+
+.beb {
+    flex: 1;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+
+}
+body{
+  background-color: rgb(192, 192, 192);
+}
